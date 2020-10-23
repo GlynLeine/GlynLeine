@@ -1,4 +1,4 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=GlynLeine&show_icons=true)<br>
+![Stats](https://github-readme-stats.vercel.app/api?username=GlynLeine&show_icons=true)
 [![legion-engine/legion-engine - GitHub](https://gh-card.dev/repos/legion-engine/legion-engine.svg)](https://github.com/legion-engine/legion-engine)
 <!--
 **GlynLeine/GlynLeine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
