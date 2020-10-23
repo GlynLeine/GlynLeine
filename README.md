@@ -1,5 +1,7 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=GlynLeine&show_icons=true)
-[![legion-engine/legion-engine - GitHub](https://gh-card.dev/repos/legion-engine/legion-engine.svg)](https://github.com/legion-engine/legion-engine)
+![Stats](https://github-readme-stats.vercel.app/api?username=GlynLeine&show_icons=true&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlynLeine&hide=mathematica&layout=compact&theme=nord)
+[![legion-engine/legion-engine - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=legion-engine&repo=legion-engine&theme=nord)](https://github.com/Legion-Engine/Legion-Engine)
+
 <!--
 **GlynLeine/GlynLeine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
