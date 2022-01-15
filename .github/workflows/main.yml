@@ -43,7 +43,7 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_affiliations: contributer
           plugin_repositories_batch: 100
-          plugin_repositories_featured: rythe-interactive\Legion-Engine
+          plugin_repositories_featured: rythe-interactive/Legion-Engine
           plugin_sponsors: yes
           plugin_sponsors_sections: goal, about
           repositories_affiliations: contributer
