@@ -44,5 +44,5 @@ jobs:
           plugin_repositories_affiliations: contributer
           plugin_repositories_batch: 100
           plugin_repositories_featured: rythe-interactive/Legion-Engine
-          repositories_affiliations: contributer
+          repositories_affiliations: owner
           plugin_traffic: yes
