@@ -31,7 +31,7 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_ignored: Mathematica,ASP,Objective-C,HTML,CMake,Tcl,CSS,JavaScript
+          plugin_languages_ignored: Mathematica,ASP,Objective-C,HTML,CMake,Tcl,CSS,JavaScript,PostScript
           plugin_languages_indepth: yes
           plugin_languages_limit: 6
           plugin_languages_recent_categories: markup, programming
