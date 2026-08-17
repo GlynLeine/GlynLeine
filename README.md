@@ -1,6 +1,6 @@
-<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=GlynLeine&show_icons=true&theme=nord)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlynLeine&hide=mathematica&layout=compact&theme=nord) -->
-[![Rythe-Interactive/Rythe-Engine - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=rythe-interactive&repo=rythe-engine&theme=nord&cache_seconds=86400)](https://github.com/Rythe-Interactive/Rythe-Engine)
-[![Rythe-Interactive/Rythe-Standard-Library - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=rythe-interactive&repo=rythe-standard-library&theme=nord&cache_seconds=86400)](https://github.com/Rythe-Interactive/Rythe-Standard-Library)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=GlynLeine&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show=prs_merged_percentage&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=GlynLeine%2CRythe-Interactive&show_icons=true&include_all_commits=true&theme=transparent)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=GlynLeine&hide=mathematica,shaderlab&layout=donut&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=GlynLeine&layout=donut&langs_count=4&theme=transparent)
+[![Rythe-Interactive/Rythe-Engine - GitHub](https://github-stats-extended.vercel.app/api/pin?username=GlynLeine&repo=Rythe-Interactive%2FRythe-Engine&theme=transparent)](https://github.com/Rythe-Interactive/Rythe-Engine)
+[![Rythe-Interactive/Rythe-Standard-Library - GitHub](https://github-stats-extended.vercel.app/api/pin?username=GlynLeine&repo=Rythe-Interactive%2FRythe-Standard-Library&description_lines_count=2&theme=transparent)](https://github.com/Rythe-Interactive/Rythe-Standard-Library)
 <br>
 ![Metrics](https://github.com/GlynLeine/GlynLeine/blob/main/github-metrics.svg)
