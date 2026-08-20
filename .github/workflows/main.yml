@@ -19,7 +19,8 @@ jobs:
           user: GlynLeine
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Amsterdam
+          repositories_affiliations: owner,organization_member,collaborator
+          config_timezone: Europe/Amsterdam   
           plugin_followup: yes
           plugin_followup_indepth: yes
           plugin_followup_sections: user
@@ -27,6 +28,5 @@ jobs:
           plugin_languages: no
           plugin_lines: yes
           plugin_repositories: yes
-          plugin_repositories_affiliations: collaborator
           plugin_repositories_featured: rythe-interactive/Rythe-Engine
           plugin_traffic: yes
