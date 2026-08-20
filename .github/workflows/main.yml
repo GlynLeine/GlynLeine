@@ -19,8 +19,6 @@ jobs:
           user: GlynLeine
           template: classic
           base: header, activity, community, repositories, metadata
-          base_indepth: yes
-          repositories_affiliations: owner,organization_member,collaborator
           config_timezone: Europe/Amsterdam
           plugin_followup: yes
           plugin_followup_indepth: yes
